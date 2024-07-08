@@ -1,6 +1,7 @@
 /* GENERAL */
 
-@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap"); /**/
+@import url('https://fonts.googleapis.com/css2?family=Silkscreen:wght@400;700&display=swap');
 
 * {
   margin: 0;
@@ -8,8 +9,7 @@
 }
 
 body {
-  font-family: "Poppins", sans-serif;
-}
+  font-family: "Silkscreen", sans-serif;}
 
 html {
   scroll-behavior: smooth;
@@ -188,13 +188,16 @@ section {
 }
 
 .section__text__p1 {
+  font-family: "Poppins", sans-serif;
   text-align: center;
 }
 
 .section__text__p2 {
+  font-family: "Poppins", sans-serif;
   font-size: 1.25rem;
 }
 .section__text__p3 {
+    font-family: "Poppins", sans-serif;
     font-size: 1rem;
     margin-bottom: 1rem;
   }
